@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Teclado Gamer",
       "price": 300
+    },
+    {
+      "name": "Teste",
+      "price": 125.98,
+      "id": 5
     }
   ]
 }
