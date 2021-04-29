@@ -2,3 +2,8 @@ form {
     display: flex;
     flex-direction: column;
 }
+
+button {
+    /* top > right > bottom > left */
+    margin: 5px 10px 0 0;
+}
