@@ -24,6 +24,16 @@
       "name": "Teste",
       "price": 125.98,
       "id": 5
+    },
+    {
+      "name": "Produto teste 2",
+      "price": "4550",
+      "id": 6
+    },
+    {
+      "name": "Pente Vermelho",
+      "price": "1",
+      "id": 7
     }
   ]
 }
